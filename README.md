@@ -1,4 +1,4 @@
-# Data-Analisys
+# Data-Analysis
 
 <h3>List</h3>
-<li>AIRBNB data analisys</li>
+<li>AIRBNB data analysis</li>
